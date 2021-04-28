@@ -1,10 +1,11 @@
-Follow the instructions below and apply for a yelp developer account(https://www.yelp.com/fusion) to attain API Key.
+Follow the instructions below and apply for a yelp developer account (https://www.yelp.com/fusion) to attain API Key.
 How to operate:
 First enter a state you would like to search. 
 After searching, the system will generate top ten cities in the state you entered.
-Then enter a number corresponded to the city and the system will tell you if its fetching data or inserting data.
-Then the system will ask user if they would like to see the chart.
+Then enter a number corresponding to the city and the system will tell you if its fetching data or inserting data.
+Then the system will ask the user if they would like to see the chart.
 -Yes (display chart in a different window)
-  - then ask you to enter a another city (Choose a number for detail search or "exit" or "back")
+ -then ask you to enter a another city (Choose a number for detail search or "exit" or "back")
 -No 
-  - then ask you to start over (Enter a state name (e.g. Michigan, michigan) that you want to visit or "exit")
+ -then ask you to start over (Enter a state name (e.g. Michigan, michigan) that you want to visit or "exit")
+
